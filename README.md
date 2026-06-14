@@ -22,3 +22,7 @@ PostgreSQL
 ## SQL Client Used
 
 Beekeeper Studio
+
+## ER Diagram
+
+https://drive.google.com/file/d/1LbCVtD3aAGevwuukIrHZJxV1Xk6l4U29/view?usp=sharing
